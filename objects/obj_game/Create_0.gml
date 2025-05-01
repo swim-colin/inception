@@ -1,0 +1,1 @@
+global.dir = 4
