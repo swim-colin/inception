@@ -1,0 +1,1 @@
+global.block = global.block + 1
